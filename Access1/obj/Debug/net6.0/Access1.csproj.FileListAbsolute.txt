@@ -1,0 +1,14 @@
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\bin\Debug\net6.0\Access1.exe
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\bin\Debug\net6.0\Access1.deps.json
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\bin\Debug\net6.0\Access1.runtimeconfig.json
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\bin\Debug\net6.0\Access1.dll
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\bin\Debug\net6.0\Access1.pdb
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\Access1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\Access1.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\Access1.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\Access1.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\Access1.dll
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\refint\Access1.dll
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\Access1.pdb
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\Access1.genruntimeconfig.cache
+C:\Users\Honor MagicBook\Downloads\Access1\Access1\obj\Debug\net6.0\ref\Access1.dll
