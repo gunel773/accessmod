@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honor MagicBook\\Downloads\\Access1\\Access1\\Access1.csproj": {}
+    "C:\\Users\\Honor MagicBook\\Downloads\\Code Academy\\Access1\\Access1\\Access1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honor MagicBook\\Downloads\\Access1\\Access1\\Access1.csproj": {
+    "C:\\Users\\Honor MagicBook\\Downloads\\Code Academy\\Access1\\Access1\\Access1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\Access1\\Access1\\Access1.csproj",
+        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\Code Academy\\Access1\\Access1\\Access1.csproj",
         "projectName": "Access1",
-        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\Access1\\Access1\\Access1.csproj",
+        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\Code Academy\\Access1\\Access1\\Access1.csproj",
         "packagesPath": "C:\\Users\\Honor MagicBook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\Access1\\Access1\\obj\\",
+        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\Code Academy\\Access1\\Access1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honor MagicBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
